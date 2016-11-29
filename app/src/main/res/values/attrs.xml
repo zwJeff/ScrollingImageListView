@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ScrollingImageListView">
+
+        <attr name="isSingleImg" format="boolean"/>
+        <attr name="speed" format="dimension"/>
+        <attr name="singleImgSrc" format="reference"/>
+        <attr name="isOutOfOrder" format="boolean"/>
+        <attr name="isLeftToRight" format="boolean"/>
+    </declare-styleable>
+
+</resources>
