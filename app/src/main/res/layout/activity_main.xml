@@ -18,7 +18,7 @@
         android:layout_height="200dp"
         app:isLeftToRight="true"
         app:isOutOfOrder="true"
-        app:isSingleImg="false"
+        app:isSingleImg="true"
         app:speed="1dp" />
 
     <LinearLayout
