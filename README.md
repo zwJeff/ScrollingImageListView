@@ -1,9 +1,15 @@
 ----------
-# ScrollingImageListView说明及示例
-
 **[ScrollingImageListView 的 Demo已分享在Github，源码注释清晰，欢迎查看指正。](https://github.com/zwJeff/RunningImageListDemo)**
+###ScrollingImageListView说明及示例
+----------
+####**先看效果图**
+![效果图](http://img.blog.csdn.net/20161208185737172?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvc2luYXRfMTU0MTc5MjE=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
+----------
 
+##目录
+[TOC]
+----------
 ###1、功能说明
  
  ScrollingImageListView实现了多图滚动循环轮播，可以在xml中声明并配置轮播方向、单图还是多图、是否乱序 以及 滚动速度，当然 这些也可以在代码里动态配置。
